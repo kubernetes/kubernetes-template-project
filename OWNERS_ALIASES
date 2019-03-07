@@ -1,4 +1,4 @@
-# See the OWNERS_ALIASES docs: https://git.k8s.io/community/contributors/guide/owners.md#owners_aliases
+# See the OWNERS docs at https://go.k8s.io/owners#owners_aliases
 
 aliases:
   # TODO: remove this alias, it will go stale in your repo, and in your repo
