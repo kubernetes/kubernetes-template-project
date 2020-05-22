@@ -9,12 +9,12 @@ The Kubernetes Template Project is a template for starting new projects in the G
 - a `LICENSE` which must be Apache 2.0 for code projects, or [Creative Commons 4.0] for documentation repositories, without any custom content
 - a `SECURITY_CONTACTS` with the contact points for the Product Security Team 
   to reach out to for triaging and handling of incoming issues. They must agree to abide by the
-  [Embargo Policy](https://git.k8s.io/security/private-distributors-list.md#embargo-policy)
+  [Embargo Policy](https://github.com/kubernetes/security/blob/master/private-distributors-list.md#embargo-policy)
   and will be removed and replaced if they violate that agreement.
 
 ## Community, discussion, contribution, and support
 
-Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
+Learn how to engage with the Kubernetes community on the [community page](https://kubernetes.io/community/).
 
 You can reach the maintainers of this project at:
 
@@ -25,5 +25,5 @@ You can reach the maintainers of this project at:
 
 Participation in the Kubernetes community is governed by the [Kubernetes Code of Conduct](code-of-conduct.md).
 
-[owners]: https://git.k8s.io/community/contributors/guide/owners.md
-[Creative Commons 4.0]: https://git.k8s.io/website/LICENSE
+[owners]: https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md
+[Creative Commons 4.0]: https://github.com/kubernetes/website/blob/master/LICENSE
