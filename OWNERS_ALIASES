@@ -5,11 +5,10 @@ aliases:
   # you should have your own set of approvers (see OWNERS)
   # in the original template repo, we must maintain this list to approve changes
   # to the template itself
-  steering-committee:
+  github-admin-team:
     - cblecker
-    - derekwaynecarr
-    - dims
-    - lachie83
+    - fejta
+    - idvoretskyi
+    - mrbobbytables
     - nikhita
-    - parispittman
     - spiffxp
