@@ -3,14 +3,16 @@
 The Kubernetes Template Project is a template for starting new projects in the GitHub organizations owned by Kubernetes. All Kubernetes projects, at minimum, must have the following files:
 
 - a `README.md` outlining the project goals, sponsoring sig, and community contact information
-- an `OWNERS` with the project leads listed as approvers ([docs on `OWNERS` files][owners])
+- an `OWNERS` with:
+  - project leads listed as `approvers` ([docs on `OWNERS` files][owners])
+  - contacts for security issues listed as `security_contacts`. The
+    [Security Response Committee] will reach out to these for triage
+    and handling of incoming issues.  They must agree to abide by the
+    [Embargo Policy] and will be removed and replaced if they violate
+    that agreement.
 - a `CONTRIBUTING.md` outlining how to contribute to the project
 - an unmodified copy of `code-of-conduct.md` from this repo, which outlines community behavior and the consequences of breaking the code
 - a `LICENSE` which must be Apache 2.0 for code projects, or [Creative Commons 4.0] for documentation repositories, without any custom content
-- a `SECURITY_CONTACTS` with the contact points for the Product Security Team 
-  to reach out to for triaging and handling of incoming issues. They must agree to abide by the
-  [Embargo Policy](https://git.k8s.io/security/private-distributors-list.md#embargo-policy)
-  and will be removed and replaced if they violate that agreement.
 
 ## Community, discussion, contribution, and support
 
@@ -27,3 +29,5 @@ Participation in the Kubernetes community is governed by the [Kubernetes Code of
 
 [owners]: https://git.k8s.io/community/contributors/guide/owners.md
 [Creative Commons 4.0]: https://git.k8s.io/website/LICENSE
+[Security Response Committee]: https://github.com/kubernetes/committee-security-response
+[Embargo Policy]: https://git.k8s.io/security/private-distributors-list.md#embargo-policy)

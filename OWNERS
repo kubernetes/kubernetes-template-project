@@ -4,3 +4,18 @@ approvers:
   # TODO: in your repo created from this template, you should replace the
   # github-admin-team with a list of project owners, see the doc linked above.
   - github-admin-team
+
+# Below are the contact points for the Product Security Committee to reach out
+# to for triaging and handling of incoming issues.
+#
+# The below names agree to abide by the
+# [Embargo Policy](https://git.k8s.io/security/private-distributors-list.md#embargo-policy)
+# and will be removed and replaced if they violate that agreement.
+#
+# DO NOT REPORT SECURITY VULNERABILITIES DIRECTLY TO THESE NAMES, FOLLOW THE
+# INSTRUCTIONS AT https://kubernetes.io/security/
+#
+security_contacts:
+  # TODO: in your repo created from this template, you should replace alice and bob 
+  #  with a list of users who can be contacted for security issues.
+  - github-usernames-go-here
