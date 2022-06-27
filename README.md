@@ -18,8 +18,8 @@ Learn how to engage with the Kubernetes community on the [community page](http:/
 
 You can reach the maintainers of this project at:
 
-- [Slack](http://slack.k8s.io/)
-- [Mailing List](https://groups.google.com/forum/#!forum/kubernetes-dev)
+- [Slack](https://slack.k8s.io/)
+- [Mailing List](https://groups.google.com/a/kubernetes.io/g/dev)
 
 ### Code of conduct
 
