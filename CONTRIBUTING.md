@@ -12,7 +12,7 @@ We have full documentation on how to get started contributing here:
 If your repo has certain guidelines for contribution, put them here ahead of the general k8s resources
 -->
 
-- [Contributor License Agreement](https://git.k8s.io/community/CLA.md) Kubernetes projects require that you sign a Contributor License Agreement (CLA) before we can accept your pull requests
+- [Contributor License Agreement](https://git.k8s.io/community/CLA.md) - Kubernetes projects require that you sign a Contributor License Agreement (CLA) before we can accept your pull requests
 - [Kubernetes Contributor Guide](https://k8s.dev/guide) - Main contributor documentation, or you can just jump directly to the [contributing page](https://k8s.dev/docs/guide/contributing/)
 - [Contributor Cheat Sheet](https://k8s.dev/cheatsheet) - Common resources for existing developers
 
@@ -27,5 +27,4 @@ Custom Information - if you're copying this template for the first time you can 
 
 - [Slack channel](https://kubernetes.slack.com/messages/kubernetes-users) - Replace `kubernetes-users` with your slack channel string, this will send users directly to your channel. 
 - [Mailing list](URL)
-
 -->
